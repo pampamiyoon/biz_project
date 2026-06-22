@@ -1,0 +1,48 @@
+{
+  "love": [
+    {"id": "love1", "title": "心予報 (마음 예보)", "artist": "Eve", "image": "./data/1. 마음예보.jpg", "url": "https://youtu.be/dJf4wCdLU18?si=XfXgPS7AQbNaKNmq", "description": ""},
+    {"id": "love2", "title": "貴方の恋人になりたい (당신의 연인이 되고 싶어)", "artist": "ChoQMay", "image": "./data/2. 당신의 연인이 되고 싶어.jpg", "url": "https://youtu.be/dJhp6awU5Z8?si=cWvo-NI4ZONvWxBm", "description": ""},
+    {"id": "love3", "title": "ウワサのあの子 (소문의 그 애)", "artist": "紫今", "image": "./data/3. 소문의 그 애.jpg", "url": "https://youtu.be/-tO9d1Nwd0M?si=-9zXRZu6jrT2oYZs", "description": ""},
+    {"id": "love4", "title": "好きだから (스키다카라)", "artist": "ユイカ", "image": "./data/4. 스키다카라.jpg", "url": "https://youtu.be/eYAd4uDotF0?si=1j-E3Jx5u9wBJlfY", "description": ""},
+    {"id": "love5", "title": "カタオモイ (카타오모이)", "artist": "Aimer", "image": "./data/5. 카타오모이.jpg", "url": "https://youtu.be/kxs9Su_mbpU?si=Prt-QtS9j8sxidKY", "description": ""},
+    {"id": "love6", "title": "マリーゴールド (마리골드)", "artist": "あいみょん", "image": "./data/6. 마리골드.jpg", "url": "https://youtu.be/0xSiBpUdW4E?si=HMxC5v01Y8nEGjGX", "description": ""},
+    {"id": "love7", "title": "Stand By You", "artist": "Official 髭男 dism", "image": "./data/7. Stand by you.jpg", "url": "https://youtu.be/22mOCjkwQjM?si=8l3yXlJR4Mlhz5Jm", "description": ""},
+    {"id": "love8", "title": "オレンジ (오렌지)", "artist": "Lavt", "image": "./data/8. 오렌지.jpg", "url": "https://youtu.be/sAmf43mONOs?si=cOMt2tFFZlccGAns", "description": ""},
+    {"id": "love9", "title": "うたたね (선잠)", "artist": "Leina", "image": "./data/9. 선잠.jpg", "url": "https://youtu.be/aS2B6tJCdiE?si=4WE_GMi13MLoMFr8", "description": ""}
+  ],
+  "night": [
+    {"id": "night1", "title": "言って (말해줘)", "artist": "ヨルシカ", "image": "./data/10. 말해줘.jpg", "url": "https://youtu.be/F64yFFnZfkI?si=FWj-HSMuWtm9EJfV", "description": ""},
+    {"id": "night2", "title": "白日 (백일)", "artist": "King Gnu", "image": "./data/11. 백일.jpg", "url": "https://youtu.be/ony539T074w?si=EWxRsWsgCEJL9sYg", "description": ""},
+    {"id": "night3", "title": "more than words", "artist": "羊文学", "image": "./data/12. more than words.jpg", "url": "https://youtu.be/kGY6N9DL4Jw?si=xkBCYlfEKqGNXXvC", "description": ""},
+    {"id": "night4", "title": "海の幽霊 (바다의 유령)", "artist": "米津玄師", "image": "./data/13. 바다의 유령.jpg", "url": "https://youtu.be/1s84rIhPuhk?si=XbnK6-8cbOmzu8UJ", "description": ""},
+    {"id": "night5", "title": "だから僕は音楽を辞めた (그래서 나는 음악을 그만두었다)", "artist": "ヨルシカ", "image": "./data/14. 그래서 나는 음악을 그만두었다.jpg", "url": "https://youtu.be/KTZ-y85Erus?si=mGMFNHoqjjfCuSzT", "description": ""},
+    {"id": "night6", "title": "A.M.3:21", "artist": "yama", "image": "./data/15. 3시 21분.jpg", "url": "https://youtu.be/1KN4DhVXw-Y?si=UkHSzN5-ntYMJ6SJ", "description": ""}
+  ],
+  "city": [
+    {"id": "city1", "title": "Friday night", "artist": "なとり", "image": "./data/16. Friday night.jpg", "url": "https://youtu.be/4Pls29qqg6Y?si=oF3fnQpMdME3YwI2", "description": ""},
+    {"id": "city2", "title": "Tattoo", "artist": "Official 髭男 dism", "image": "./data/17. tattoo.jpg", "url": "https://youtu.be/oLrp9uTa9gw?si=eAVoLsOvCMLHf0po", "description": ""},
+    {"id": "city3", "title": "vinyl", "artist": "King Gnu", "image": "./data/18. vinyl.png", "url": "https://youtu.be/RLAw8Ct9k48?si=S5VH2boDWRNf9OZ7", "description": ""},
+    {"id": "city4", "title": "愛を伝えたいだとか (사랑을 전하고 싶다던가)", "artist": "あいみょん", "image": "./data/19. 사랑을 전하고 싶다던가.jpg", "url": "https://youtu.be/9qRCARM_LfE?si=0rqppuOcy60AyOCu", "description": ""},
+    {"id": "city5", "title": "lights off", "artist": "Taku Inoue", "image": "./data/20. lights off.jpg", "url": "https://youtu.be/Ny8O2w68J3I?si=lOnnVrAaJJJqp0n_", "description": ""},
+    {"id": "city6", "title": "Mirror Tune", "artist": "ZUTOMAYO", "image": "./data/21. mirror tune.jpg", "url": "https://youtu.be/BVvvUGP0MFw?si=rJUgwWMq38BO4JfM", "description": ""}
+  ],
+  "upbeat": [
+    {"id": "upbeat1", "title": "Mela!", "artist": "緑黄色社会", "image": "./data/22. Mela!.jpg", "url": "https://youtu.be/aRDURmIYBZ4?si=a_BJa01XBTwMpR24", "description": ""},
+    {"id": "upbeat2", "title": "サムライハート (사무라이 하트)", "artist": "SPYAIR", "image": "./data/23. 사무라이 하트.jpg", "url": "https://youtu.be/KpM6xNAgRoI?si=fgGdBS39kH_th6sO", "description": ""},
+    {"id": "upbeat3", "title": "ダンスホール (댄스홀)", "artist": "Mrs GREEN APPLE", "image": "./data/24. 댄스홀.jpg", "url": "https://youtu.be/x2rvSf0STBM?si=LpBVZ4_4Dwm9OaOm", "description": ""},
+    {"id": "upbeat4", "title": "あの夢をなぞって (그 꿈을 덧그리며)", "artist": "YOASOBI", "image": "./data/25. 그 꿈을 덧그리며.jpg", "url": "https://youtu.be/sAuEeM_6zpk?si=_tPNrEF1rLesVile", "description": ""},
+    {"id": "upbeat5", "title": "夜に駆ける (밤을 달리다)", "artist": "YOASOBI", "image": "./data/26. 밤을 달리다.jpg", "url": "https://youtu.be/by4SYYWlhEs?si=Hi4qpKu90ZvYj8QF", "description": ""},
+    {"id": "upbeat6", "title": "花になって (꽃이 되어줘)", "artist": "緑黄色社会", "image": "./data/27. 꽃이 되어줘.jpg", "url": "https://youtu.be/v-WcMQbXbKY?si=Vs0YbzzovRGDjjT1", "description": ""},
+    {"id": "upbeat7", "title": "マジか (마지카)", "artist": "梓川", "image": "./data/28. 마지카.jpg", "url": "https://youtu.be/YEwzRue45cg?si=BS7JhAdBy_ND3Y_M", "description": ""}
+  ],
+  "complex": [
+    {"id": "complex1", "title": "絶対零度 (절대영도)", "artist": "natori", "image": "./data/29. 절대영도.jpg", "url": "https://youtu.be/LFoyXEFaz2Q?si=YC77cAc6iCPGQzHp", "description": ""},
+    {"id": "complex2", "title": "ハイパーベンチレイション (과호흡)", "artist": "RADWIMPS", "image": "./data/30. 과호흡.jpg", "url": "https://youtu.be/OEPmMz2Y0c8?si=x70cmXcLAKp5xXjB", "description": ""},
+    {"id": "complex3", "title": "花一匁 (꽃한돈)", "artist": "ZUTOMAYO", "image": "./data/31. 꽃한돈.jpg", "url": "https://youtu.be/H88kps8X4Mk?si=Dy02R7KDDwVaiTpt", "description": ""},
+    {"id": "complex4", "title": "春雷 (춘뢰)", "artist": "米津玄師", "image": "./data/32. 춘뢰.jpg", "url": "https://youtu.be/zkNzxsaCunU?si=eVlHqezJVdYGywpa", "description": ""},
+    {"id": "complex5", "title": "レーゾンデートル (레종데트루)", "artist": "Eve", "image": "./data/33. 레종데트르.jpg", "url": "https://youtu.be/ulfY8WQE_HE?si=h7jiHhtOoX9lSFlr", "description": ""},
+    {"id": "complex6", "title": "魔性の女A (마성의 여자 A)", "artist": "紫今", "image": "./data/34. 마성의 여자A.jpg", "url": "https://youtu.be/d0QFalAKRNM?si=zGUSU8NT-qfYlocU", "description": ""},
+    {"id": "complex7", "title": "Help!", "artist": "こぼ・かなえる", "image": "./data/35. Help!.jpg", "url": "https://youtu.be/50Ura_ZcSvY?si=XIWoDkXOXvyiaeyj", "description": ""},
+    { "id": "complex8", "title": "花占い (꽃점)", "artist": "Vaundy", "image": "./data/36. 꽃점.jpg", "url": "https://youtu.be/onhBN0qkUcE?si=VkIj9MoMvHPGbgcI", "description": "" }
+  ]
+}
