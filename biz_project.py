@@ -132,7 +132,7 @@ if st.button("카테고리 추가"):
         # Refresh categories mapping
         CATEGORIES = {key: DEFAULT_LABELS.get(key, key) for key in SONGS.keys()}
         st.success(f"카테고리 '{new_category}' 추가되었습니다.")
-        st.experimental_rerun()
+        st.rerun()
     else:
         st.warning("유효한 카테고리 키를 입력하거나, 이미 존재하는 카테고리는 추가할 수 없습니다.")
 
@@ -197,6 +197,7 @@ with col_del:
                     st.experimental_rerun()
                 else:
                     st.warning("선택한 노래를 찾을 수 없습니다.")
+
 
 
 
